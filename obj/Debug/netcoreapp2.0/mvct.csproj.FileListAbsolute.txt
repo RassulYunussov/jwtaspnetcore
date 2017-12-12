@@ -1,0 +1,10 @@
+/Volumes/ramdisk/mvct/bin/Debug/netcoreapp2.0/mvct.deps.json
+/Volumes/ramdisk/mvct/bin/Debug/netcoreapp2.0/mvct.runtimeconfig.json
+/Volumes/ramdisk/mvct/bin/Debug/netcoreapp2.0/mvct.runtimeconfig.dev.json
+/Volumes/ramdisk/mvct/bin/Debug/netcoreapp2.0/mvct.dll
+/Volumes/ramdisk/mvct/bin/Debug/netcoreapp2.0/mvct.pdb
+/Volumes/ramdisk/mvct/obj/Debug/netcoreapp2.0/mvct.csproj.CoreCompileInputs.cache
+/Volumes/ramdisk/mvct/obj/Debug/netcoreapp2.0/mvct.AssemblyInfoInputs.cache
+/Volumes/ramdisk/mvct/obj/Debug/netcoreapp2.0/mvct.AssemblyInfo.cs
+/Volumes/ramdisk/mvct/obj/Debug/netcoreapp2.0/mvct.dll
+/Volumes/ramdisk/mvct/obj/Debug/netcoreapp2.0/mvct.pdb
